@@ -10,6 +10,7 @@ Tested notes on building AI features in real products. Every article comes with 
 | :--- | :--- |
 | [Not every AI feature needs an agent](https://www.sayamjain.com/blog/not-every-ai-feature-needs-an-agent) | [01-agent-or-workflow](https://github.com/sayamjn/shipping-with-ai/tree/main/01-agent-or-workflow) |
 | [Evals before vibes](https://www.sayamjain.com/blog/evals-before-vibes) | [02-evals-before-vibes](https://github.com/sayamjn/shipping-with-ai/tree/main/02-evals-before-vibes) |
+| [RAG is a search problem first](https://www.sayamjain.com/blog/rag-is-a-search-problem-first) | [03-rag-is-search-first](https://github.com/sayamjn/shipping-with-ai/tree/main/03-rag-is-search-first) |
 
 ## Elsewhere
 
