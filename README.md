@@ -12,6 +12,7 @@ Tested notes on building AI features in real products. Every article comes with 
 | [Evals before vibes](https://www.sayamjain.com/blog/evals-before-vibes) | [02-evals-before-vibes](https://github.com/sayamjn/shipping-with-ai/tree/main/02-evals-before-vibes) |
 | [RAG is a search problem first](https://www.sayamjain.com/blog/rag-is-a-search-problem-first) | [03-rag-is-search-first](https://github.com/sayamjn/shipping-with-ai/tree/main/03-rag-is-search-first) |
 | [I tested my RAG retriever on terms it hadn't seen](https://www.sayamjain.com/blog/rag-on-words-it-never-saw) | [03b-unseen-terms](https://github.com/sayamjn/shipping-with-ai/tree/main/03b-unseen-terms) |
+| [Prompt injection is a permissions problem](https://www.sayamjain.com/blog/prompt-injection-is-a-permissions-problem) | [04-injection-is-permissions](https://github.com/sayamjn/shipping-with-ai/tree/main/04-injection-is-permissions) |
 
 ## Elsewhere
 
